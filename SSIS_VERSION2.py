@@ -21,7 +21,7 @@ def main_display_menu():
 
 
 def display_menu1():
-    print("Please what you want to do...\n")
+    print("Please choose what you want to do...\n")
     print("1. Add New Student")
     print("2. Display Students")
     print("3. Search Students")
